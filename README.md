@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a full-stack developer with experience in a variety of technologies and frameworks, including JavaScript, Python, Django, Flask, React, Next.js, and more. I am passionate about open source and always looking for opportunities to contribute to meaningful projects.
+I am a Machine learning Engineer with experience in a variety of technologies and frameworks, including JavaScript, Python, Django, Flask, React, Next.js, and more. I am passionate about open source and always looking for opportunities to contribute to meaningful projects.
 
 ### 💼 Work Experience
 
@@ -15,17 +15,17 @@ I am a full-stack developer with experience in a variety of technologies and fra
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeWithEhtisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rizwan9119&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
   
 ### 🌱 Education
 
-- Bachelor's Degree in Computer Science from University of Buitems (2016-2020)
+- Bachelor's Degree in Electronic Engineering from University of Buitems (2014-2018)
 
 ### 🏆 Honors and Awards
 
-- Winner of the Google Android Developers Challenge (2021)
-- Runner-up in the Speed Programming Competition held by Ignite (2022)
+- Runner-up of the Google Android Developers Challenge (2021)
+- Winner in the Invention and Innovation Competition held by Ignite (2019)
 
 ### 🚀 Skills
 
@@ -46,7 +46,7 @@ I am a full-stack developer with experience in a variety of technologies and fra
 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 
 #### Databases
 
@@ -57,11 +57,9 @@ I am a full-stack developer with experience in a variety of technologies and fra
 ### :link: Links
 
 <p align="center">
-  <a href="https://mirwise.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:contact@mirwise.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/EhtishamPyCoder"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/ehtishamahmed"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <!-- <a href="https://medium.com/@mirwise001"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a> -->
-  <a href="https://stackoverflow.com/users/13269204/ehtisham"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <!-- <a href="https://hub.docker.com/u/mirwisek"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> -->
+  <a href="https://twitter.com/RSadiqian"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/rizwan-grad"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <!-- <a href="https://medium.com/@rizwantahir9119"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a> -->
+  <a href="https://stackoverflow.com/users/21911525/rizwan-tahir"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <!-- <a href="https://hub.docker.com/u/rizwan10"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a> -->
 </p>
