@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a Machine learning Engineer with experience in a variety of technologies and frameworks, including JavaScript, Python, Django, Flask, React, Next.js, and more. I am passionate about open source and always looking for opportunities to contribute to meaningful projects.
+I am a passionate machine learning engineer and Python developer. With a strong background in both fields, I thrive on combining my expertise to create intelligent solutions that make a real impact. From designing and implementing complex machine learning models to developing robust and scalable Python applications, I'm driven by a constant desire to innovate and solve challenging problems. Join me on this exciting journey as we explore the realm of artificial intelligence, data analysis, and software development. Let's collaborate and create something extraordinary together!.
 
 ### 💼 Work Experience
 
