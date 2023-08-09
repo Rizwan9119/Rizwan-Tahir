@@ -9,7 +9,7 @@ I am a passionate machine learning engineer and Python developer. With a strong 
   - Collaborated with cross-functional teams to design and implement new features.
   - Mentored junior developers and conducted code reviews.
 
-- Machine Learning Engineer Intern at Vertex Solution (2020-2022)
+- Computer Vision Engineer at Government Lab (2020-2022)
   - Assisted senior developers with front-end and back-end tasks.
   - Gained experience with technologies such as Flask, React, and PostgreSQL.
 
